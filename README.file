@@ -1,0 +1,27 @@
+# 🧮 Simple Web Calculator
+
+A basic calculator project built using HTML, CSS, and JavaScript.
+
+## 📸 Preview
+
+A minimal and user-friendly interface that allows basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+
+## 🚀 Features
+
+- Clean and responsive design
+- Supported operations:
+  - ➕ Addition
+  - ➖ Subtraction
+  - ✖️ Multiplication
+  - ➗ Division
+- Clear button to reset the display
+- Uses JavaScript DOM manipulation and event handling
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 🧱 Project Structure
